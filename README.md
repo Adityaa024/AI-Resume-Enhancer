@@ -531,11 +531,11 @@ Join the mission! Here's how:
 <tr>  
 <td align="center"><b>
    
-   [🏠 HOME](https://resumind.streamlit.app/)
+   [🏠 HOME]
    </b></td>  
 <td align="center"><b>
    
-   [🔍 RESUME ANALYZER(Below Example Analysis of Backend Deeveloper)](https://resumind.streamlit.app/)
+   [🔍 RESUME ANALYZER(Below Example Analysis of Backend Deeveloper)]
 </b></td>  
 </tr>  
 <tr>  
@@ -545,11 +545,11 @@ Join the mission! Here's how:
 <tr>  
 <td align="center"><b>
    
-   [🔍 RESUME ANALYZER(Score And Recommendations)](https://resumind.streamlit.app/)
+   [🔍 RESUME ANALYZER(Score And Recommendations)]
    </b></td>  
 <td align="center"><b>
    
-   [🔍 RESUME ANALYZER(According To Roles Recommendations)](https://resumind.streamlit.app/)
+   [🔍 RESUME ANALYZER(According To Roles Recommendations)]
    </b></td>  
 </tr>  
 <tr>  
@@ -560,11 +560,11 @@ Join the mission! Here's how:
 <tr>  
 <td align="center"><b>
    
-   [🔍 RESUME ANALYZER(According To Roles Course Recommendations)](https://resumind.streamlit.app/)
+   [🔍 RESUME ANALYZER(According To Roles Course Recommendations)]
    </b></td>  
 <td align="center"><b>
    
-   [🔍 RESUME ANALYZER(Videos Recommendations)](https://resumind.streamlit.app/)
+   [🔍 RESUME ANALYZER(Videos Recommendations)]
    </b></td>  
 </tr>  
 <tr>  
@@ -574,62 +574,12 @@ Join the mission! Here's how:
 <tr>  
 <td align="center"><b>
    
-   [📝 RESUME BUILDER](#-interactive-resume-templates)
-</b></td>  
-<td align="center"><b>
    
-   [📊 DASHBOARD](https://resumind.streamlit.app/)
-</b></td>  
-</tr>  
-<tr>  
-<td><img src="https://github.com/user-attachments/assets/7ebdf0d0-1172-47dd-a281-7d4bb058bd3f" alt="📝 RESUME BUILDER" width="500px"></td>  
-<td><img src="https://github.com/user-attachments/assets/982f26b9-f84d-4cec-b8c2-beeec23b5e8b" alt="📊 DASHBOARD" width="500px"></td>  
-</tr>  
-<tr>  
-<td align="center"><b>
-   
-   [🎯 JOB SEARCH](https://resumind.streamlit.app/)
-   </b></td>  
-<td align="center"><b>
-   
-   [🎯 JOB SEARCH(📊 Job Market Insights & 🏢 Featured Companies)](https://resumind.streamlit.app/)
-   </b></td>  
-</tr>  
-<tr>  
-<td><img src="https://github.com/user-attachments/assets/0b9bab57-5c73-4944-90bb-c9c374c4b559" alt="🎯 JOB SEARCH" width="500px"></td>  
-<td><img src="https://github.com/user-attachments/assets/10aaa50e-3c28-415b-948d-a9744f942dcd" alt="🎯 JOB SEARCH(📊 Job Market Insights & 🏢 Featured Companies)" width="500px"></td>  
-</tr>  
-<tr>  
-<td align="center"><b>
-   
-   [💬 FEEDBACK](https://resumind.streamlit.app/)
-   </b></td>  
-<td align="center"><b>
-   
-   [ℹ️ ABOUT](https://resumind.streamlit.app/)
-   </b></td>  
-</tr>  
-<tr>  
-<td><img src="https://github.com/user-attachments/assets/88f85cca-35df-4575-a949-b5ac49d822f5" alt="💬 FEEDBACK" width="500px"></td>  
-<td><img src="https://github.com/user-attachments/assets/649625ed-a8c8-436a-bdbe-4f261b598ef3" alt="ℹ️ ABOUT" width="500px"></td>  
-</tr>  
-</table>  
-</div>  
-
-
-## 🎥 **Quick Glance – Version 2.0 (AI-Powered Resume Analyzer)**  
-
-<div align="center">  
-<table>  
-
-<tr>  
-<td align="center"><b>  
-   
-   [🔍 AI Resume Analysis (Custom Job Description)](https://resumind.streamlit.app/)
+   [🔍 AI Resume Analysis (Custom Job Description)]
    </b></td>  
 <td align="center"><b>  
    
-   [📊 AI Resume Score & Statistics](https://resumind.streamlit.app/)
+   [📊 AI Resume Score & Statistics]
 </b></td>  
 </tr>  
 
@@ -641,11 +591,11 @@ Join the mission! Here's how:
 <tr>  
 <td align="center"><b>  
    
-   [📄 AI-Generated PDF Resume Report](https://resumind.streamlit.app/)
+   [📄 AI-Generated PDF Resume Report]
    </b></td>  
 <td align="center"><b>  
    
-   [📊 AI Resume Analysis Insights](https://resumind.streamlit.app/)
+   [📊 AI Resume Analysis Insights]
    </b></td>  
 </tr>  
 
@@ -657,11 +607,11 @@ Join the mission! Here's how:
 <tr>  
 <td align="center"><b>  
    
-   [🔗 LinkedIn Job Scraper (Search Results)](https://resumind.streamlit.app/)
+   [🔗 LinkedIn Job Scraper (Search Results)]
    </b></td>  
 <td align="center"><b>  
    
-   [🏢 LinkedIn Scraper (Job Listings UI)](https://resumind.streamlit.app/)
+   [🏢 LinkedIn Scraper (Job Listings UI)]
    </b></td>  
 </tr>  
 
@@ -688,7 +638,7 @@ Join the mission! Here's how:
 
 ## 📄 **License**  
 
-This project is licensed under the [MIT License](https://github.com/your-username/resume-analyzer-ai/blob/main/LICENSE).  
+This project is licensed under the [MIT License](https://github.com/Adityaa024/AI-Resume-Enhancer/blob/main/LICENSE).  
 
 
 ## 🌟 **GitHub Repo**  
@@ -697,24 +647,14 @@ Explore the code, contribute, or drop a <img src="https://github.com/user-attach
 
 ## 🛡️ Maintainer  
 
-> **_This repository is maintained by [Your Name](https://github.com/your-username)._**  
-> Have suggestions? Feel free to reach out to [me via email](mailto:het8185@gmail.com). 📧
+> **_This repository is maintained by Aditya Raj(https://github.com/Adityaa024)._**  
+> Have suggestions? Feel free to reach out to [me via email](mailto:adityaraj3458@gmail.com). 📧
 
 
 ## 📰 News  
 **Practice, practice, practice!** Keep working hard, and it will all fall into place. No shortcuts in this Field! 🛠️  
 > Stay curious and keep learning. 🚀
 
-
-
-## 💖 **How You Can Support**
-
-If you appreciate this repository and want to show your support, you can do so through these platforms:
-
-| ❤️ **Platform**        | 🌟 **Support Link**                                                                                                                                        |
-|------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **GitHub Sponsors**    | [![GitHub Sponsors](https://img.shields.io/badge/GitHub-Sponsor-red?style=flat-square&logo=github)](https://github.com/sponsors/your-username)                  |
-| **Buy Me a Coffee**    | [![Buy Me a Coffee](https://img.shields.io/badge/☕-Buy%20Me%20a%20Coffee-orange?style=flat-square)](https://www.buymeacoffee.com/het81857)                 |
-| **Thanks.dev**         | [![Thanks.dev](https://img.shields.io/badge/💜-Thanks.dev-purple?style=flat-square)](https://thanks.dev/your-username)                                          |
+                                 |
 
 **Thank you for your support! Every bit helps keep this repository going.** 🌈✨
